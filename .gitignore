@@ -1,0 +1,5 @@
+# Ignore database config
+/application/config/database.php
+
+# Ignore Vim's swap files
+*.swp
